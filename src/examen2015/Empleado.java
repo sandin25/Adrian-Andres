@@ -16,9 +16,8 @@ public class Empleado {
     private Fecha fAlta;
     private float[] ventas =new float[3];
 
-    public Empleado() {
-
-    }
+    
+    Esto es una prueba
 
     
     
