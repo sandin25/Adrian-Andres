@@ -17,7 +17,7 @@ public class Empresa {
         new Zona(2000,"Castilla y Leon"),
         new Zona(2200,"Andalaucia"),
         new Zona(2500,"Levante"),
-        new Zona(3000,"Madrid"),
+        
     };
     String[]situaciones={"Soltero","Casado","Otros"};
     float[]limites={3000f,5000f,10000f,Float.MAX_VALUE};
