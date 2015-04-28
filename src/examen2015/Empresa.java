@@ -16,7 +16,7 @@ public class Empresa {
     Zona[]zonas={
         new Zona(2000,"Castilla y Leon"),
         new Zona(2200,"Andalaucia"),
-        new Zona(2500,"Levante"),
+        new Zona(2500,"Levansadfs<fds<fds<e"),
         
     };
     String[]situaciones={"Soltero","Casado","Otros"};
